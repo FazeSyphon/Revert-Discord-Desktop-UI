@@ -1,6 +1,6 @@
 @import url("https://fazesyphon.github.io/Jan2025DesktopUI/src/components/vars.css");
 @import url("https://fazesyphon.github.io/Jan2025DesktopUI/src/components/color.css");
 @import url("https://fazesyphon.github.io/Jan2025DesktopUI/src/components/imgs.css");
-@import url("https://fazesyphon.github.io/Jan2025DesktopUI/src/components/other.css");
+/*@import url("https://fazesyphon.github.io/Jan2025DesktopUI/src/components/other.css");*/ /* undoes some minor changes but fucks the settings UI, so theres your warning */
 /*@import url("https://fazesyphon.github.io/Jan2025DesktopUI/src/components/profile.css");*/ /* only uncomment if you want old profile ui */ 
 @import url("https://fazesyphon.github.io/Jan2025DesktopUI/src/components/redesign.css");
