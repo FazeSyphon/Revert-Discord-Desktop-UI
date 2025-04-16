@@ -1,1 +1,25 @@
+/**
+  * @name January 2025 Dekstop UI
+  * @version 1.0
+  * @author @fazesyphon
+  * @source https://github.com/FazeSyphon/Jan2025DesktopUI
+  * @description Restores discord's 2020 UI
+*/
+@import url("https://fazesyphon.github.io/Jan2025DesktopUI/src/main.css");
 
+
+/*
+Addons
+remove a "/*" below to enable one
+*/
+
+/*@import url("https://fazesyphon.github.io/Jan2025DesktopUI/src/components/oldEmojis.css");*/
+/*@import url("https://fazesyphon.github.io/Jan2025DesktopUI/src/components/oldContext.css");*/
+/*@import url("https://fazesyphon.github.io/Jan2025DesktopUI/src/components/showEffects.css");*/
+
+/* Options */
+
+:root {
+	/* Re-adds the animation for reactions. Might look weird | 0 - off | 1 - on*/
+	--reaction-animation: 0;
+}
